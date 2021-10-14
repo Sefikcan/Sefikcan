@@ -1,4 +1,5 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi, I'm Şefik Can Kanber
+I have been working as a Software Engineer for about 5 years.During this process, I gained responsibility and experience in developing and maintaining software projects.However,I impowered my skills about software development processes and time manamagent.
 
 ### 📫 Social
 [![Linkedin Badge](https://img.shields.io/badge/-sefikcankanber-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/şefik-can-kanber-a1b1a398/)](https://www.linkedin.com/in/şefik-can-kanber-a1b1a398/) [![Medium Badge](https://img.shields.io/badge/-sefikcankanber-black?style=flat-square&labelColor=black&logo=Medium&link=https://sefikcankaner.medium.com/)](https://sefikcankanber.medium.com/)
