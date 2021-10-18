@@ -22,5 +22,5 @@ I have been working as a Software Engineer for about 5 years.During this process
     <img align="left" alt="Octopus" width="26px" src="https://www.datocms-assets.com/2885/1616114481-octopusdeploy-boldlogo-2lines-rgb-digital.svg" />
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=Sefikcan&count_private=true&show_icons=true&include_all_commits=true) -->
 
-<!-- [![Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Sefikcan&layout=compact&langs_count=10&hide=html,smarty,javascript)](https://github-readme-stats.vercel.app/api/top-langs/?username=Sefikcan&layout=compact&langs_count=10&hide=html,smarty,javascript) -->
+[![Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Sefikcan&layout=compact&langs_count=10&hide=html,smarty,javascript)](https://github-readme-stats.vercel.app/api/top-langs/?username=Sefikcan&layout=compact&langs_count=10&hide=html,smarty,javascript)
 
