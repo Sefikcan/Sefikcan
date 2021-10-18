@@ -5,6 +5,8 @@ I have been working as a Software Engineer for about 5 years.During this process
 [![Linkedin Badge](https://img.shields.io/badge/-sefikcankanber-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/şefik-can-kanber-a1b1a398/)](https://www.linkedin.com/in/şefik-can-kanber-a1b1a398/) [![Medium Badge](https://img.shields.io/badge/-sefikcankanber-black?style=flat-square&labelColor=black&logo=Medium&link=https://sefikcankaner.medium.com/)](https://sefikcankanber.medium.com/)
 
 ### ⚡ Languages and Tools
+[![Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Sefikcan&layout=compact&langs_count=10&hide=html,smarty,javascript)](https://github-readme-stats.vercel.app/api/top-langs/?username=Sefikcan&layout=compact&langs_count=10&hide=html,smarty,javascript)
+
   <img align="left" alt=".Net Platform" width="26px" src="https://avatars2.githubusercontent.com/u/9141961?s=200&v=4" />
   <img align="left" alt="CSharp Platform" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
   <img align="left" alt="CSharp Platform" width="26px" src="https://user-images.githubusercontent.com/27498814/109383841-4b92c880-78fa-11eb-8848-185b6502e0c1.png" />
@@ -21,6 +23,4 @@ I have been working as a Software Engineer for about 5 years.During this process
   <img align="left" alt="NewRelic" width="26px" src="https://scontent.fist6-2.fna.fbcdn.net/v/t1.18169-1/p200x200/11535668_10153435731107495_866121093981217291_n.png?_nc_cat=100&ccb=1-5&_nc_sid=1eb0c7&_nc_ohc=jlQNOZgLQaYAX-afGTb&_nc_ht=scontent.fist6-2.fna&oh=ff38ebb15ea578b090902242c8065287&oe=618CD459" />
     <img align="left" alt="Octopus" width="26px" src="https://www.datocms-assets.com/2885/1616114481-octopusdeploy-boldlogo-2lines-rgb-digital.svg" />
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=Sefikcan&count_private=true&show_icons=true&include_all_commits=true) -->
-
-[![Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Sefikcan&layout=compact&langs_count=10&hide=html,smarty,javascript)](https://github-readme-stats.vercel.app/api/top-langs/?username=Sefikcan&layout=compact&langs_count=10&hide=html,smarty,javascript)
 
