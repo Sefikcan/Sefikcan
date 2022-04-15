@@ -20,7 +20,7 @@ I have been working as a Software Engineer for about 5 years.During this process
   <img align="left" alt="Elasticsearch" width="26px" src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt5d10f3a91df97d15/5c30744829d13af10bc2abd4/logo-elastic-vertical-reverse.svg" />
   <img align="left" alt="Sonarqube" width="26px" src="https://docs.sonarqube.org/latest/images/SonarQubeIcon.svg" />
   <img align="left" alt="Jenkins" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/375px-Jenkins_logo_with_title.svg.png" />
-  <img align="left" alt="NewRelic" width="26px" src="https://scontent.fist6-2.fna.fbcdn.net/v/t1.18169-1/p200x200/11535668_10153435731107495_866121093981217291_n.png?_nc_cat=100&ccb=1-5&_nc_sid=1eb0c7&_nc_ohc=jlQNOZgLQaYAX-afGTb&_nc_ht=scontent.fist6-2.fna&oh=ff38ebb15ea578b090902242c8065287&oe=618CD459" />
+  <img align="left" alt="NewRelic" width="26px" src="https://newrelic.com/sites/default/files/styles/1200w/public/2021-02/mark%20charcoal.png?itok=qTMUZ-or" />
     <img align="left" alt="Octopus" width="26px" src="https://www.datocms-assets.com/2885/1616114481-octopusdeploy-boldlogo-2lines-rgb-digital.svg" />
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=Sefikcan&count_private=true&show_icons=true&include_all_commits=true) -->
 
